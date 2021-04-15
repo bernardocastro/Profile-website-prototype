@@ -6,21 +6,22 @@
 	position: absolute;
 	height: 100vh;
 	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
 
 .container-img-perfil {
 	margin-left: auto;
 	margin-right: auto;
 	width: 150px;
-	padding-top: 20%;
 }
 
 .container-img-perfil img {
 	width: 100%;
 	height: 100%;
-	border-style: solid;
 	border-radius: 50%;
-	border-color: #FFFFFF;
+	border: 1px solid #FFFFFF;
 }
 .nome-titulo {
 	padding-top: 10px ;
