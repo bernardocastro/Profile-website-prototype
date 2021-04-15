@@ -11,9 +11,10 @@
 .container-img-perfil {
 	margin-left: auto;
 	margin-right: auto;
-	width: 14%;
+	width: 150px;
 	padding-top: 20%;
 }
+
 .container-img-perfil img {
 	width: 100%;
 	height: 100%;
