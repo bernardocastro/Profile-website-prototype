@@ -1,0 +1,50 @@
+.container-bg {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-image: url("../assets/images/bg-image.jpg");
+	position: absolute;
+	height: 100vh;
+	width: 100%;
+}
+
+.container-img-perfil {
+	margin-left: auto;
+	margin-right: auto;
+	width: 14%;
+	padding-top: 20%;
+}
+.container-img-perfil img {
+	width: 100%;
+	height: 100%;
+	border-style: solid;
+	border-radius: 50%;
+	border-color: #FFFFFF;
+}
+.nome-titulo {
+	font-family: Josefin Sans,sans-serif;
+	color: #FFFFFF;
+	text-align: center;	
+	font-weight: 600;
+	font-size: 40px;
+}
+.nome-dev {
+	font-family: Josefin Sans,sans-serif;
+	color: #FFFFFF;
+	text-align: center;	
+	font-weight: 50;
+	font-size: 30px;
+}
+
+.redesociais {
+	text-align: center;
+	margin-right: 35px;
+
+}
+
+nav li {
+	display: inline; 
+	margin-left: 15px;
+	margin-right: 10px;
+}
+	
